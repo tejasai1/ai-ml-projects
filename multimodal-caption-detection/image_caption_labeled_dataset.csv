@@ -1,0 +1,31 @@
+image_id,category,caption_accuracy,hallucination_type,detail_level,overall_quality,seconds_to_label
+animals_002,animals,Inaccurate,Wrong Color or Count,Insufficient,Rejected,520
+animals_001,animals,Accurate,None,Sufficient,Approved,24
+kitchen_001,kitchen,Inaccurate,Wrong Color or Count,Insufficient,Rejected,87
+kitchen_002,kitchen,Accurate,None,Sufficient,Approved,28
+food_004,food,Inaccurate,Wrong Action or Activity,Sufficient,Rejected,109
+kitchen_003,kitchen,Partially Accurate,Wrong Action or Activity,Sufficient,Needs Revision,62
+people_002,people,Inaccurate,Wrong Spatial Relation,Insufficient,Rejected,52
+food_001,food,Partially Accurate,Wrong Color or Count,Sufficient,Needs Revision,38
+food_003,food,Partially Accurate,Wrong Action or Activity,Sufficient,Needs Revision,31
+animals_005,animals,Inaccurate,Wrong Action or Activity,Insufficient,Rejected,23
+kitchen_005,kitchen,Accurate,None,Sufficient,Approved,90
+food_002,food,Accurate,None,Sufficient,Approved,53
+sports_001,sports,Partially Accurate,Wrong Color or Count,Sufficient,Needs Revision,44
+people_003,people,Partially Accurate,Wrong Action or Activity,Sufficient,Needs Revision,60
+people_001,people,Inaccurate,Wrong Spatial Relation,Insufficient,Rejected,37
+people_005,people,Partially Accurate,Wrong Color or Count,Sufficient,Needs Revision,77
+animals_003,animals,Partially Accurate,Wrong Action or Activity,Sufficient,Needs Revision,57
+people_004,people,Inaccurate,Wrong Action or Activity,Insufficient,Rejected,43
+kitchen_004,kitchen,Inaccurate,Wrong Color or Count,Insufficient,Rejected,70
+animals_004,animals,Inaccurate,Wrong Color or Count,Insufficient,Rejected,34
+food_005,food,Inaccurate,Wrong Action or Activity,Insufficient,Rejected,137
+sports_002,sports,Inaccurate,Wrong Action or Activity,Insufficient,Rejected,40
+sports_003,sports,Accurate,None,Sufficient,Approved,41
+sports_005,sports,Inaccurate,Wrong Spatial Relation,Sufficient,Needs Revision,335
+sports_004,sports,Inaccurate,Wrong Action or Activity,Insufficient,Rejected,35
+street_003,street,Inaccurate,Wrong Color or Count,Insufficient,Rejected,36
+street_001,street,Accurate,None,Sufficient,Approved,46
+street_002,street,Accurate,None,Sufficient,Approved,30
+street_004,street,Inaccurate,Wrong Color or Count,Insufficient,Rejected,43
+street_005,street,Accurate,None,Sufficient,Approved,28
